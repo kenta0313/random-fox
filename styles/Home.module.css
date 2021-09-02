@@ -121,5 +121,6 @@
 
 .img {
   width: 500px;
-  position: relative
+  position: relative;
+  margin-bottom: 20px;
 }
