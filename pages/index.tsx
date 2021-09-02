@@ -41,6 +41,7 @@ const Home: NextPage = () => {
         onClick={onclick}
         variant="contained"
         color="primary"
+        size="large"
       >
         キツネ！
       </Button>
